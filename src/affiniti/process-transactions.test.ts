@@ -171,7 +171,7 @@ describe("processTransactions", () => {
     });
   });
 
-  describe.only("Scenario 4", () => {
+  describe("Scenario 4", () => {
     const card4Transactions = [
       // Expected risk score: 0
       {
